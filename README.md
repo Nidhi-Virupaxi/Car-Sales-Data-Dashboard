@@ -1,1 +1,2 @@
 # Car-Sales-Data-Dashboard
+Conducted a comprehensive car sales analysis using Power BI. This project involved cleaning and preparing the data to ensure its accuracy. I then leveraged the powerful visualization capabilities of Power BI to create an insightful andaesthetically pleasing dashboard. This dashboard effectively communicates key trends and insights within the car sales data, allowing for informed decision-making. This project demonstrates my proficiency in data cleaning, data analysis using Power BI, and data visualization for clear communication of insights.
